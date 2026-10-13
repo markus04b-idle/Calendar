@@ -1,0 +1,12 @@
+{
+  "name": "Together Calendar",
+  "short_name": "Together",
+  "description": "A shared calendar for making plans together.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#f6f5f0",
+  "icons": [
+    { "src": "/calendar-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
